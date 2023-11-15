@@ -115,7 +115,7 @@
       <p>©
         <script>
           document.write(new Date().getFullYear())
-        </script> {{ config('app.name') }}. Crafted with ❤️
+        </script> Crafted with ❤️
       </p>
     </div>
   </footer>
